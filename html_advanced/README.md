@@ -1,7 +1,8 @@
 # FRONT END DEVELOPMENT OF MY SCHOOL PROJECT
 ## Introduction
-```python
-This is the front end development of my school project. The project is a web application that allows users to create and learn and collaborate with other students. The application has the following features:
+This is the front end development of my school project. 
+The project is a web application that allows users to create and learn and collaborate with other students. 
+The application has the following features:
 1. Users can create an account and log in.
 2. Users can create, edit, and delete flashcards.
 3. Users can create, edit, and delete decks.
@@ -16,4 +17,3 @@ This is the front end development of my school project. The project is a web app
 12. Users can view their friends.
 13. Users can add friends.
 14. Users can remove friends.
-```
