@@ -1,5 +1,6 @@
-#FRONT END DEVELOPMENT OF MY SCHOOL PROJECT
-'''bash
+# FRONT END DEVELOPMENT OF MY SCHOOL PROJECT
+## Introduction
+''' python
 This is the front end development of my school project. The project is a web application that allows users to create and learn and collaborate with other students. The application has the following features:
 1. Users can create an account and log in.
 2. Users can create, edit, and delete flashcards.
