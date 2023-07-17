@@ -20,3 +20,4 @@ The application has the following features:
 
 ## Technologies
 For now strictly use html and follow the figma design.
+![Figma design of page](<resources/images/Homepage (Copy).png>)
