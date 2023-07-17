@@ -1,6 +1,6 @@
-# FRONT END DEVELOPMENT OF MY SCHOOL PROJECT
+# FRONT END DEVELOPMENT OF MY ALX SWE HTML ADVANCED PROJECT
 ## Introduction
-This is the front end development of my school project. 
+This is the front end development of my project. 
 The project is a web application that allows users to create and learn and collaborate with other students. 
 The application has the following features:
 1. Users can create an account and log in.
@@ -17,3 +17,6 @@ The application has the following features:
 12. Users can view their friends.
 13. Users can add friends.
 14. Users can remove friends.
+
+## Technologies
+For now strictly use html and follow the figma design.
